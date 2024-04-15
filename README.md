@@ -1,0 +1,2 @@
+# Jacobsens-algorithm
+Semestral project
