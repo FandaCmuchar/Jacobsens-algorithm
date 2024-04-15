@@ -1,2 +1,2 @@
-# Jacobsens-algorithm
+# Jakobsens-algorithm
 Semestral project
